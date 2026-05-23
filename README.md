@@ -1,33 +1,103 @@
-<h1 align="center">Hi 👋, I'm Ashil p Anil</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeskerbex&label=Profile%20views&color=0e75b6&style=flat" alt="hadeskerbex" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadeskerbex" alt="hadeskerbex" /></a> </p>
-
-- 🔭 I’m currently working on **Full stack social media app Development**
-
-- 🌱 I’m currently learning **AI and ML**
-
-- 💬 Ask me about **Flutter, C++, C, Python, Java**
-
-- 📫 How to reach me **pashil364@gmail.com**
-
-- ⚡ Fun fact **I think im not that funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashil p anil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashil p anil" height="30" width="40" /></a>
-<a href="https://fb.com/ashil ctn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashil ctn" height="30" width="40" /></a>
-<a href="https://instagram.com/ashil💎" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashil💎" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fairyariz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fairyariz" height="30" width="40" /></a>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=BB86FC&width=700&lines=Hi,+I'm+Ashil+P+Anil;Aspiring+Full+Stack+Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-BB86FC?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Location-Ernakulam%2C%20Kerala-BB86FC?style=for-the-badge&labelColor=0a0a0a" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadeskerbex&show_icons=true&locale=en&layout=compact" alt="hadeskerbex" /></p>
+<p>
+  Fresher based in Ernakulam, Kerala — building real-world projects<br>and looking to contribute to a great team.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadeskerbex&show_icons=true&locale=en" alt="hadeskerbex" /></p>
+🔗 **[View Portfolio](https://portfolio-six-ivory-54.vercel.app/)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadeskerbex&" alt="hadeskerbex" /></p>
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<table width="100%">
+<tr><td>
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+</td></tr>
+<tr><td>
+
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+</td></tr>
+<tr><td>
+
+#### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+</td></tr>
+<tr><td>
+
+#### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+</td></tr>
+<tr><td>
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts" />
+</p>
+
+</td></tr>
+<tr><td>
+
+#### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,firebase,figma,vscode" />
+</p>
+
+</td></tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=ashilCtn&show_icons=true&theme=tokyonight&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashilCtn&theme=tokyonight&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc" />
+</p>
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=ashilCtn&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=c9d1d9" />
+</p>
+
+---
+
+## 🤝 Connect with me
+
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/ashilCtn) &nbsp;
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashil007/) &nbsp;
+[![facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://fb.com/ashilctn) &nbsp;
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/voldermort___7) &nbsp;
+[![portfolio](https://img.shields.io/badge/Portfolio-BB86FC?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-ivory-54.vercel.app/)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashilCtn&color=bb86fc&style=flat-square&label=Profile+Views" />
+</div>
